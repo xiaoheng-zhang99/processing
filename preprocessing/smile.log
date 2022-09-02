@@ -1,0 +1,20 @@
+[ 30.08.2022 - 12:13:43 ]
+    (MSG) [2] SMILExtract: openSMILE starting!
+[ 30.08.2022 - 12:13:43 ]
+    (MSG) [2] SMILExtract: config file is: E:/data/SER/opensmile-config/modified_MFCC12_E_D_A.conf
+[ 30.08.2022 - 12:13:43 ]
+    (MSG) [2] cComponentManager: successfully registered 103 component types.
+[ 30.08.2022 - 12:13:43 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-appendcsvlld' on commandline!
+[ 30.08.2022 - 12:13:43 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-timestampcsvlld' on commandline!
+[ 30.08.2022 - 12:13:43 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-headercsvlld' on commandline!
+[ 30.08.2022 - 12:13:43 ]
+    (ERR) [0] commandlineParser: parse: unknown option '-lldcsvoutput' on commandline!
+[ 30.08.2022 - 12:13:43 ]
+    (MSG) [2] instance 'lldcsvsink': No filename given, disabling this sink component.
+[ 30.08.2022 - 12:13:43 ]
+    (MSG) [2] instance 'lldarffsink': No filename given, disabling this sink component.
+[ 30.08.2022 - 12:13:43 ]
+    (ERR) [1] cWaveSource: failed to open input file 'E:/data/SER/IEMOCAP/processed/Ses01F_impro01_F002.wav'
